@@ -1,7 +1,7 @@
 
 #include <iostream>
 #include "stack.h"
-
+//this is my stack
 int main() {
 
 	elem *top( NULL );
